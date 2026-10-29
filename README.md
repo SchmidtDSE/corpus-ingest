@@ -1,4 +1,4 @@
-# corpus-ingest
+# text-ingest
 
 Builds AI-ready, cloud-native corpora from document collections. A folder of PDFs on S3 becomes
 parquet tables of documents, passages, references and places, with bibliographic metadata,
@@ -7,9 +7,9 @@ following the patterns of [`cng-datasets`](https://github.com/boettiger-lab/data
 does the same for spatial data.
 
 **Status:** design. Nothing is implemented yet. The design and the pilot that informs it are in
-[`corpus-workflows/PLAN.md`](https://github.com/SchmidtDSE/corpus-workflows/blob/main/PLAN.md).
+[`text-workflows/PLAN.md`](https://github.com/SchmidtDSE/text-workflows/blob/main/PLAN.md).
 Recipes for each corpus live in
-[`corpus-workflows`](https://github.com/SchmidtDSE/corpus-workflows).
+[`text-workflows`](https://github.com/SchmidtDSE/text-workflows).
 
 ## Stages
 
